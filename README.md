@@ -1,5 +1,5 @@
 Hello! 🙋‍♀️  
-I am currently focused on creating impactful, innovative projects, with experience in **Machine Learning**, **Data Science**, and **Deep Learning**, I leverage **Python** and tools like **Pandas**, **NumPy**, **Scikit-Learn**, **Matplotlib**, and **Seaborn** to develop efficient, scalable solutions and visualizations.</br></br>
+I am currently focused on creating impactful, innovative projects, with experience in **Machine Learning**, **Data Science**. I leverage **Python** and tools like **Pandas**, **NumPy**, **Scikit-Learn**, **Matplotlib**, and **Seaborn** to develop efficient, scalable solutions and visualizations.</br></br>
 I aim to bridge the gap between theoretical knowledge and practical applications, using advanced mathematical, statistical, and econometric techniques to derive actionable insights from data.
 
 ## Key Skills & Services
