@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 I’m a passionate and results-driven **Data Scientist** focused on delivering impactful and innovative solutions using **Machine Learning**, **Data Science**, and **Statistical Modeling**. I specialize in **Python** and **R**, using tools like **Pandas**, **Scikit-Learn**, **ggplot2**, and **Caret** to extract insights and drive data-informed decisions.
 
-With a strong foundation in **mathematics**, **statistics**, and **econometrics**, I bridge the gap between theory and practice to solve real-world problems across industries. 📊🧠
+With a strong foundation in **mathematics**, **statistics**, and **econometrics**, I aim to bridge the gap between theory and practice to solve real-world problems across industries. 📊🧠
 
 ---
 
