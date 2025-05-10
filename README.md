@@ -1,35 +1,70 @@
-Hello! 🙋‍♀️  
-I am currently focused on creating impactful, innovative projects, with experience in **Machine Learning**, **Data Science**. I leverage **Python** and tools like **Pandas**, **NumPy**, **Scikit-Learn**, **Matplotlib**, and **Seaborn** to develop efficient, scalable solutions and visualizations.</br></br>
-I aim to bridge the gap between theoretical knowledge and practical applications, using advanced mathematical, statistical, and econometric techniques to derive actionable insights from data.
+# 👋 Hi, I'm Eren Cice
 
-## Key Skills & Services
+Welcome to my GitHub profile!
 
-- **Predictive Modeling & Machine Learning**:  
-  Regression, Classification, Clustering, Model Optimization, Time Series Forecasting
+I’m a passionate and results-driven **Data Scientist** focused on delivering impactful and innovative solutions using **Machine Learning**, **Data Science**, and **Statistical Modeling**. I specialize in **Python** and **R**, using tools like **Pandas**, **Scikit-Learn**, **ggplot2**, and **Caret** to extract insights and drive data-informed decisions.
 
-- **Statistical & Econometric Analysis**:  
-  Statistical Methods, Econometric Modeling, Hypothesis Testing, Inference
-
-- **Text Processing & Data Transformation**:  
-  Text Cleaning, NLP Feature Extraction, RegExp Removal
-
-- **Web Scraping & Data Extraction (ETL)**:  
-  Web Scraping with **BeautifulSoup**/**Scrapy**, ETL Pipeline Creation, Data Integration
-
-- **Technical Writing & Content Creation**:  
-  Writing blog posts, guides, and case studies on Data Science topics
-
-## Methodology
-
-I apply a blend of **mathematical**, **statistical**, and **econometric** methods with **Python** programming to solve data problems and build scalable solutions for businesses.
-
-## Tools & Technologies
-
-- **Python**, **Pandas**, **NumPy**, **Scikit-Learn**  
-- **TensorFlow**, **Keras**  
-- **BeautifulSoup**, **Scrapy**  
-- **Matplotlib**, **Seaborn**, **Plotly**
+With a strong foundation in **mathematics**, **statistics**, and **econometrics**, I bridge the gap between theory and practice to solve real-world problems across industries. 📊🧠
 
 ---
 
-Feel free to reach out for collaborations or any data-driven inquiries.
+## 🧠 Core Competencies
+
+- **🔍 Predictive Modeling & Machine Learning**  
+  Regression, Classification, Clustering, Time Series Forecasting, Model Tuning
+
+- **📊 Statistical & Econometric Analysis**  
+  Linear/Nonlinear Modeling, Hypothesis Testing, Panel Data Analysis, Inference
+
+- **🧹 Data Wrangling & Text Processing**  
+  Data Cleaning, Feature Engineering, Text Mining, NLP, Regex Preprocessing
+
+- **🕸️ Web Scraping & ETL Pipelines**  
+  Data Extraction with **BeautifulSoup**, **Scrapy**, and **rvest**, ETL automation
+
+- **✍️ Technical Writing & Communication**  
+  Case studies, tutorials, and data science content tailored for business and technical audiences
+
+---
+
+## ⚙️ Methodology
+
+My workflow blends **theoretical rigor** with **practical implementation**, applying robust **statistical techniques**, **machine learning models**, and **data visualization** to uncover actionable insights. I aim to deliver data products that are not only technically sound but also aligned with business goals and decision-making.
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 🐍 Python Ecosystem
+- **Core**: Python, Pandas, NumPy, Scikit-Learn  
+- **Deep Learning**: TensorFlow, Keras  
+- **Data Collection**: BeautifulSoup, Scrapy  
+- **Visualization**: Matplotlib, Seaborn, Plotly
+
+### 📊 R Ecosystem
+- **Core**: R, Tidyverse, dplyr, tidyr  
+- **Modeling**: caret, forecast, lm(), glm(), randomForest  
+- **Visualization**: ggplot2, plotly  
+- **Data Collection**: rvest, httr
+
+---
+
+## 💼 Collaboration & Projects
+
+I’m open to:
+
+- Freelance or contract data science projects  
+- Long-term collaborations with startups or research teams  
+- Technical writing opportunities (articles, case studies, documentation)  
+- Mentoring or guest contributions to educational content
+
+If you're looking for someone who combines **technical expertise**, **business insight**, and a commitment to **high-quality delivery**, let's connect!
+
+---
+
+## 📬 Contact Me
+💼 **[LinkedIn](https://www.linkedin.com/in/erencice)**  
+
+---
+
+Thanks for visiting — let's turn data into decisions! 🚀
