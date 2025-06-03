@@ -1,70 +1,57 @@
-# 👋 Hi, I'm Eren Cice
+# 👋 Hi, I’m Eren Cice
 
 Welcome to my GitHub profile!
 
-I’m a passionate and results-driven **Data Scientist** focused on delivering impactful and innovative solutions using **Machine Learning**, **Data Science**, and **Statistical Modeling**. I specialize in **Python** and **R**, using tools like **Pandas**, **Scikit-Learn**, **ggplot2**, and **Caret** to extract insights and drive data-informed decisions.
+I am an **Econometrics student** with a strong interest in **statistics** and **mathematical statistics**, aiming to apply theoretical knowledge in practical data science and machine learning projects. I work primarily with **Python** and **R**, using libraries like **Pandas**, **Scikit-Learn**, **ggplot2**, and **caret** to analyze data and build predictive models.
 
-With a strong foundation in **mathematics**, **statistics**, and **econometrics**, I aim to bridge the gap between theory and practice to solve real-world problems across industries. 📊🧠
-
----
-
-## 🧠 Core Competencies
-
-- **🔍 Predictive Modeling & Machine Learning**  
-  Regression, Classification, Clustering, Time Series Forecasting, Model Tuning
-
-- **📊 Statistical & Econometric Analysis**  
-  Linear/Nonlinear Modeling, Hypothesis Testing, Panel Data Analysis, Inference
-
-- **🧹 Data Wrangling & Text Processing**  
-  Data Cleaning, Feature Engineering, Text Mining, NLP, Regex Preprocessing
-
-- **🕸️ Web Scraping & ETL Pipelines**  
-  Data Extraction with **BeautifulSoup**, **Scrapy**, and **rvest**, ETL automation
-
-- **✍️ Technical Writing & Communication**  
-  Case studies, tutorials, and data science content tailored for business and technical audiences
+My goal is to bridge the gap between rigorous mathematical and econometric theory and real-world applications, extracting actionable insights through advanced statistical techniques and machine learning methods. 📊
 
 ---
 
-## ⚙️ Methodology
+## 🧠 Core Skills
 
-My workflow blends **theoretical rigor** with **practical implementation**, applying robust **statistical techniques**, **machine learning models**, and **data visualization** to uncover actionable insights. I aim to deliver data products that are not only technically sound but also aligned with business goals and decision-making.
+- **Predictive Modeling & Machine Learning**  
+  Regression, classification, clustering basics
+
+- **Statistical & Econometric Analysis**  
+  Linear and nonlinear modeling, hypothesis testing
+
+- **Data Wrangling & Feature Engineering**  
+  Data cleaning, transformation, and simple text preprocessing
+
+- **Web Scraping & Data Collection**  
+  Using tools like BeautifulSoup, Selenium and rvest to gather data
+
+- **Technical Communication**  
+  Writing clear documentation, tutorials, and case studies
+
+---
+
+## ⚙️ Working Approach
+
+I focus on combining strong theoretical foundations with practical implementation, applying statistical and econometric methods to solve problems and support data-driven decision making.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-### 🐍 Python Ecosystem
-- **Core**: Python, Pandas, NumPy, Scikit-Learn  
-- **Deep Learning**: TensorFlow, Keras  
-- **Data Collection**: BeautifulSoup, Scrapy  
-- **Visualization**: Matplotlib, Seaborn, Plotly
-
-### 📊 R Ecosystem
-- **Core**: R, Tidyverse, dplyr, tidyr  
-- **Modeling**: caret, forecast, lm(), glm(), randomForest  
-- **Visualization**: ggplot2, plotly  
-- **Data Collection**: rvest, httr
+- **Python**: Pandas, NumPy, Scikit-Learn, BeautifulSoup, Matplotlib  
+- **R**: Tidyverse, ggplot2, caret, rvest
 
 ---
 
-## 💼 Collaboration & Projects
+## 💼 Open To
 
-I’m open to:
-
-- Freelance or contract data science projects  
-- Long-term collaborations with startups or research teams  
-- Technical writing opportunities (articles, case studies, documentation)  
-- Mentoring or guest contributions to educational content
-
-If you're looking for someone who combines **technical expertise**, **business insight**, and a commitment to **high-quality delivery**, let's connect!
+- Internship or freelance data science projects  
+- Collaborative research or team projects  
+- Technical writing and educational content development  
+- Mentorship and knowledge sharing
 
 ---
 
-## 📬 Contact Me
-💼 **[LinkedIn](https://www.linkedin.com/in/erencice)**  
+## 📬 Contact Me  
+💼 [LinkedIn](https://www.linkedin.com/in/erencice)  
 
 ---
 
-Thanks for visiting — let's turn data into decisions! 🚀
+Thanks for stopping by! Let’s learn and build together. 🚀
